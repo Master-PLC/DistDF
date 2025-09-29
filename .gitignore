@@ -199,6 +199,8 @@ analyze/*
 
 scripts/*
 !scripts/valid*
+!scripts/Fredformer.sh
+!scripts/TimeBridge.sh
 
 /stats*
 
